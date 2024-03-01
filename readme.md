@@ -1,8 +1,7 @@
 
 ## Live link
-
-## Introduction
 https://buzzspace-theta.vercel.app/
+## Introduction
 Welcome to Buzzspace, my social network app.
 This project was built as a side project, to sharpen my M.E.R.N. stack coding skills in mind.
 
